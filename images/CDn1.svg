@@ -11,6 +11,7 @@
    sodipodi:docname="CDn1.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -27,7 +28,7 @@
      units="mm"
      inkscape:zoom="1.0230034"
      inkscape:cx="406.64576"
-     inkscape:cy="346.52866"
+     inkscape:cy="268.32755"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -36,6 +37,18 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient31747">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop31743" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop31745" />
+    </linearGradient>
     <rect
        x="167.15488"
        y="469.20667"
@@ -436,6 +449,15 @@
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
          id="path6578-7" />
     </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient31747"
+       id="linearGradient31749"
+       x1="28.26333"
+       y1="86.113176"
+       x2="40.050107"
+       y2="86.113176"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:label="Слой 1"
@@ -651,16 +673,16 @@
          ry="8.0467978" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.15;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.15;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
          x="89.576988"
          y="44.518265"
          id="text37787-2-2-0"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';baseline-shift:baseline;stroke-width:0.264583"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';baseline-shift:baseline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="89.576988"
            y="44.518265"
            id="tspan38821-3-5-0">h<tspan
-   style="font-size:65%;baseline-shift:sub"
+   style="font-size:65%;baseline-shift:sub;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    id="tspan128585-1">1</tspan>=1</tspan></text>
       <circle
          style="fill:#2848ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -670,16 +692,16 @@
          r="8.0467978" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.15;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.15;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
          x="89.520317"
          y="72.133415"
          id="text37787-2-2-4"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';baseline-shift:baseline;stroke-width:0.264583"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';baseline-shift:baseline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
            x="89.520317"
            y="72.133415"
            id="tspan38821-3-5-5">h<tspan
-   style="font-size:65%;baseline-shift:sub"
+   style="font-size:65%;baseline-shift:sub;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
    id="tspan128585-6">2</tspan>=0</tspan></text>
     </g>
     <text
@@ -713,16 +735,16 @@
    id="tspan11869">(0)</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
        x="77.883011"
        y="39.903252"
        id="text2411-7"><tspan
          sodipodi:role="line"
          id="tspan2409-1"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
          x="77.883011"
          y="39.903252">h<tspan
-   style="font-size:65%;baseline-shift:super"
+   style="font-size:65%;baseline-shift:super;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
    id="tspan11869-6">(0)</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.8;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
@@ -952,42 +974,42 @@
          r="8.0467978" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.15;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.15;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
          x="28.206659"
          y="56.726723"
          id="text37787-2-7"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';baseline-shift:baseline;stroke-width:0.264583"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';baseline-shift:baseline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
            x="28.206659"
            y="56.726723"
            id="tspan38821-3-0">v<tspan
-   style="font-size:65%;baseline-shift:sub"
+   style="font-size:65%;baseline-shift:sub;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
    id="tspan97625-2">2</tspan>=0</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.15;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.15;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
          x="28.206659"
          y="26.002584"
          id="text37787-2-2-1"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';baseline-shift:baseline;stroke-width:0.264583"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';baseline-shift:baseline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="28.206659"
            y="26.002584"
            id="tspan38821-3-5-8">v<tspan
-   style="font-size:65%;baseline-shift:sub"
+   style="font-size:65%;baseline-shift:sub;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    id="tspan128585-2">1</tspan>=1</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.15;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.15;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';fill:#000000;fill-opacity:1;stroke:url(#linearGradient31749);stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
          x="28.26333"
          y="87.395226"
          id="text37787-27-1"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';stroke-width:0.264583"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="28.26333"
            y="87.395226"
            id="tspan38821-4-5">v<tspan
-   style="font-size:65%;baseline-shift:sub"
+   style="font-size:65%;baseline-shift:sub;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    id="tspan118909-0">3</tspan>=1</tspan></text>
     </g>
     <g
@@ -1035,16 +1057,16 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
        x="120.63396"
        y="20.362358"
        id="text2411-2"><tspan
          sodipodi:role="line"
          id="tspan2409-9"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
          x="120.63396"
          y="20.362358">v<tspan
-   style="font-size:65%;baseline-shift:super"
+   style="font-size:65%;baseline-shift:super;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
    id="tspan11869-3">(1)</tspan></tspan></text>
     <text
        xml:space="preserve"
