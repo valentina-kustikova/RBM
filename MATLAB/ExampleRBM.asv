@@ -118,7 +118,7 @@ function ExampleRBM
     disp("Обучение RBM завершено" + newline);
     
     % Тестовая выборка
-    Test = [1 0 1 0; 0 1 1 0; 1 0 0 1];
+    Test = [0 0 1 0; 1 1 1 0; 1 0 0 1];
     disp("Тестовая выборка:");
     disp(Test);
     
@@ -126,7 +126,7 @@ function ExampleRBM
     v_count = size(Test, 2);
     disp("Количество векторов в тестовой выборке: " + v_count + newline);
     
-    % Массив ошибок: 1 - вектора различны, 0 - в противном случае
+    % Массив ошибок: 1 - вектора совпали, 0 - в противном случае
     Errors = zeros(1, v_count)';
     
     % Массив предсказанных векторов
@@ -144,12 +144,10 @@ function ExampleRBM
             v = Sampling(p_v_h);
         end
         Predict(:,v_index) = v;
-        Errors(v_index) = CheckVectors(v0, v);
+        Errors(i) = CheckVectors(v0, v);
     end
-    disp("Исходные вектора (по столбцам):");
-    disp(Test);
-    disp("Предсказанные вектора (по столбцам):");
-    disp(Predict);
+    disp("Исходные вектора (по столбцам)
+    Predict
     disp("Посмотрим на ошибки для векторов тестовой выборки (0 - ошибки нет, 1 - ошибка есть):");
     for v_index = 1:v_count
         disp("Ошибка для " + v_index + " вектора тестовой выборки: " + Errors(v_index));
