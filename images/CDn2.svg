@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="CDn1.svg"
+   sodipodi:docname="CDn2.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -646,7 +646,7 @@
            y="26.002584"
            id="tspan38821-3-5">v<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan128585">1</tspan>=0</tspan></text>
+   id="tspan128585">1</tspan>=1</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.15;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -732,7 +732,7 @@
          x="16.255848"
          y="20.217163">v<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan11869">(0)</tspan></tspan></text>
+   id="tspan11869">(1)</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
@@ -745,7 +745,7 @@
          x="77.883011"
          y="39.903252">h<tspan
    style="font-size:65%;baseline-shift:super;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="tspan11869-6">(0)</tspan></tspan></text>
+   id="tspan11869-6">(1)</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.8;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
        d="M 27.072265,19.300049 C 74.919533,36.887153 74.919533,36.887153 74.919533,36.887153"
@@ -763,11 +763,11 @@
          x="37.559395"
          y="6.9433622">h<tspan
    style="font-size:2.82222px;baseline-shift:super"
-   id="tspan66308">(0)</tspan> ~ p(h<tspan
+   id="tspan66308">(1)</tspan> ~ p(h<tspan
    style="font-size:2.82222px;baseline-shift:super"
-   id="tspan40006">(0)</tspan>= 1|v<tspan
+   id="tspan40006">(1)</tspan>= 1|v<tspan
    style="font-size:2.82222px;baseline-shift:super"
-   id="tspan43926">(0)</tspan>)</tspan></text>
+   id="tspan43926">(1)</tspan>)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1067,7 +1067,7 @@
          x="120.63396"
          y="20.362358">v<tspan
    style="font-size:65%;baseline-shift:super;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="tspan11869-3">(1)</tspan></tspan></text>
+   id="tspan11869-3">(2)</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1080,7 +1080,7 @@
          x="182.26112"
          y="40.048443">h<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan11869-6-5">(0)</tspan></tspan></text>
+   id="tspan11869-6-5">(1)</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.8;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Lstart)"
        d="m 131.45038,19.445241 c 47.84727,17.587104 47.84727,17.587104 47.84727,17.587104"
@@ -1098,11 +1098,11 @@
          x="135.649"
          y="-28.738956">v<tspan
    style="font-size:2.82222px;baseline-shift:super"
-   id="tspan66308-2">(1)</tspan> ~ p(v<tspan
+   id="tspan66308-2">(2)</tspan> ~ p(v<tspan
    style="font-size:2.82222px;baseline-shift:super"
-   id="tspan40006-4">(1)</tspan>= 1|h<tspan
+   id="tspan40006-4">(2)</tspan>= 1|h<tspan
    style="font-size:2.82222px;baseline-shift:super"
-   id="tspan43926-8">(0)</tspan>)</tspan></text>
+   id="tspan43926-8">(1)</tspan>)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1183,6 +1183,6 @@
          id="tspan160923"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
          x="68.046867"
-         y="9.3767271">Первая итерация</tspan></text>
+         y="9.3767271">Вторая итерация</tspan></text>
   </g>
 </svg>
