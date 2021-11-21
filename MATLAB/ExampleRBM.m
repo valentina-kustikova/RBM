@@ -2,7 +2,7 @@ function ExampleRBM
     clear, clc;
     format longg;
     
-    % Инициализируем количество эрох, learning rate и количество шагов
+    % Инициализируем количество эпох, learning rate и количество шагов
     % алгоритма CD-k
     epoch_count = 1;
     disp("Количество эпох: " + epoch_count);
@@ -91,7 +91,7 @@ function ExampleRBM
             disp(p_h_vk');
             
             % Двойной цикл для обновления значений в матрице весов 'W' и
-            % матрице сдвигов 'a'
+            % векторе сдвигов 'a'
             for i = 1:Nv
                 % Пересчитываем значения вектора сдвига 'a'
                 a(i) = a(i) + learning_rate * (v0(i) - v(i));
